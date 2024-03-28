@@ -56,16 +56,6 @@
 
 
 
-### DevOps  
-<div align="center">  
-  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/Athul-ramesan" target="_blank">
@@ -80,14 +70,10 @@
 <br/>  
 
 
-## Github Stats  
-  
-
-<br/>  
 
 
-## Recent Blog Posts  
-  
+
+
 
 <br/>  
 
